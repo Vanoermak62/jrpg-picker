@@ -1,5 +1,30 @@
-# Vue 3 + TypeScript + Vite
+# JRPG Picker
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A small quiz-based app that recommends a JRPG based on your preferences.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Answer a few questions about things like story, combat, exploration and game length — and JRPG Picker will find the closest match.
+
+## Built with
+
+* Vue
+* TypeScript
+* Tailwind CSS
+* Vite
+
+## About
+
+This is my first fully self-directed frontend project.
+
+I built it to practice Vue, TypeScript and working with a real project from start to finish.
+
+## Features
+
+* Preference-based recommendations
+* Weighted scoring system
+* Multiple JRPGs to choose from
+* Responsive interface
+* Dark atmospheric UI
+
+## Status
+
+Finished for now. More improvements may come later.
